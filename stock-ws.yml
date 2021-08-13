@@ -3,9 +3,6 @@ server:
   
   
 spring:
-#  application:
-#    name: stock-ws
-    
   datasource:
     driver-class-name: org.h2.Driver
     password: ''
