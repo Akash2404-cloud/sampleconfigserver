@@ -20,4 +20,4 @@ spring:
     password: guest
 
 app:
- msg: "Hello-world-bus-refresh"
+ msg: "Hello-world"
